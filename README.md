@@ -10,5 +10,5 @@
 
 ## DAY 3
 1. Linked List (https://www.hackerrank.com/challenges/30-linked-list/problem)
-2. Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
-
+2. Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/proble)
+3. 
