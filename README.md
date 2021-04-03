@@ -8,3 +8,7 @@
 1. Need Some Change (https://practice.geeksforgeeks.org/problems/need-some-change/0/?track=module-2-arrays-and-strings&batchId=113)
 2. Count the Specials (https://practice.geeksforgeeks.org/problems/count-the-specials/0/?track=module-2-arrays-and-strings&batchId=113#)
 
+## DAY 3
+1. Linked List (https://www.hackerrank.com/challenges/30-linked-list/problem)
+2. Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+
