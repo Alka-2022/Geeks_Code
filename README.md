@@ -12,3 +12,5 @@
 1. Linked List (https://www.hackerrank.com/challenges/30-linked-list/problem)
 2. Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
  
+## DAY 4
+1. Matrix Interchange (https://practice.geeksforgeeks.org/problems/matrix-interchange/0/?track=module-2-arrays-and-strings&batchId=113#)
