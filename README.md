@@ -18,3 +18,4 @@
  
 ## DAY 5
 1. Length of Last Word (https://leetcode.com/problems/length-of-last-word/)
+2. Predict the Column (https://practice.geeksforgeeks.org/problems/predict-the-column/1/?track=module-2-arrays-and-strings&batchId=113#)
