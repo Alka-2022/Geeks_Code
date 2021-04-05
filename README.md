@@ -16,3 +16,5 @@
 1. Matrix Interchange (https://practice.geeksforgeeks.org/problems/matrix-interchange/0/?track=module-2-arrays-and-strings&batchId=113#)
 2. Remove Duplicates from Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
  
+## DAY 5
+1. Length of Last Word (https://leetcode.com/problems/length-of-last-word/)
