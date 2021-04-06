@@ -22,3 +22,6 @@
 
 ## DAY 6
 1. Running Sum of 1d Array (https://leetcode.com/problems/running-sum-of-1d-array/)
+2. Defanging an IP Address (https://leetcode.com/problems/defanging-an-ip-address/)
+3. Richest Customer Wealth (https://leetcode.com/problems/richest-customer-wealth/)
+4. Shuffle the Array (https://leetcode.com/problems/shuffle-the-array/)
