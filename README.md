@@ -19,3 +19,6 @@
 ## DAY 5
 1. Length of Last Word (https://leetcode.com/problems/length-of-last-word/)
 2. Predict the Column (https://practice.geeksforgeeks.org/problems/predict-the-column/1/?track=module-2-arrays-and-strings&batchId=113#)
+
+## DAY 6
+1. Running Sum of 1d Array (https://leetcode.com/problems/running-sum-of-1d-array/)
