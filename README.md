@@ -25,3 +25,8 @@
 2. Defanging an IP Address (https://leetcode.com/problems/defanging-an-ip-address/)
 3. Richest Customer Wealth (https://leetcode.com/problems/richest-customer-wealth/)
 4. Shuffle the Array (https://leetcode.com/problems/shuffle-the-array/)
+
+## DAY 7
+1. Reverse an array or string (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+2. kth smallest element (https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+3. Sort an array (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
