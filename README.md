@@ -36,6 +36,7 @@ kth smallest element (https://practice.geeksforgeeks.org/problems/kth-smallest-e
 
 Sort an array (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
+ARRAYS 
 
 Reverse the array (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
 
