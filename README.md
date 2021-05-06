@@ -35,3 +35,8 @@ Reverse an array or string (https://www.geeksforgeeks.org/write-a-program-to-rev
 kth smallest element (https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 
 Sort an array (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+
+
+Reverse the array
+![image](https://user-images.githubusercontent.com/70084670/117344102-ab8d8880-aec2-11eb-9c95-14f22f05a5e0.png)
+
