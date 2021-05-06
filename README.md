@@ -37,6 +37,12 @@ kth smallest element (https://practice.geeksforgeeks.org/problems/kth-smallest-e
 Sort an array (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
 
-Reverse the array
-![image](https://user-images.githubusercontent.com/70084670/117344102-ab8d8880-aec2-11eb-9c95-14f22f05a5e0.png)
+Reverse the array (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+
+Maximum and minimum of an array using minimum number of comparisons (https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+
+Kth smallest element (https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+
+Sort an array of 0s, 1s and 2s (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+
 
